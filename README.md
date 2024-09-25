@@ -1,6 +1,9 @@
 # Projects Portfolio
 Please view a portfolio of the projects I have completed as a Data Analyst.
 
+## Diamonds Polynomial Regression with Smoothing Splines
+file:///Users/_Preston_/Diamonds_Analysis_Notebook.html
+
 ## Falcon 9 Stage 1 Rocket Landing Predcition 
 Presentation of the completed Data Science Capstone Project for the IBM Data Science Professional Certificate. The goal was to predict if the Falcon 9 first stage will land successfully and present the findings for data-driven decision-making. This is presented in PowerPoint format.
 https://1drv.ms/p/s!AnvknzyUbyq6j35brASFeIONXmGt
