@@ -15,5 +15,5 @@ to display and analyze the data.
 ## Cryptocurrency Trading Algorithm
 I completed the guided project "Create a Cryptocurrency Trading Algorithm" which I completed the required code and analysis for, then added a separate section to put into practice what I learned. Strategies involved were Simple Moving Averages, Crossing Moving Averages, Backtesting, Data Visualization, and Exploratory Data Analysis. The section which is my code based on what I learned starts with line 31, "Testing the Algorithm for a Different Time Period."
 
-## Webscraping and Visualzing Stock Data
+## Webscraping and Visualizing Stock Data
 This project focuses on webscraping stock data for Tesla and Gamestop with Yahoo Finance. After webscraping the data, line graphs are displayed showing the historic stock data changes for both companies.
