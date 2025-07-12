@@ -1,0 +1,17 @@
+🎓 How can data analytics improve college enrollment outcomes?
+
+That's exactly what I set out to find in a recent data mining project, where I explored how mentorship affects student immediate college enrollment rates post–high school, with a focus on demographics and social-emotional learning (SEL) influences on these enrollment rates.
+
+Using the CRISP-DM framework, I:
+✅ Integrated and cleaned 4 datasets in R (consisting of 2,320 mentees)
+ ✅ Conducted Exploratory Data Analysis (EDA) revealing significant differences in enrollment rates by gender, cohort, and SEL outcomes
+ ✅ Built and evaluated Logistic Regression, XGBoost, SVM, and KNN models in Python.
+ ✅ Delivered insights through an interactive Tableau dashboard and Gradio app to support stakeholder decision-making.
+
+📌 Key findings pointed to high-impact areas like increased senior-year mentorship participation, male student support, and Social-Emotional Learning Outcome focus areas such as career planning.
+
+This project demonstrates how data-driven insights can inform targeted interventions and drive measurable outcomes in education.
+
+📈 View my presentation of the project here: [https://lnkd.in/gr9Q7Xyd]
+
+https://www.linkedin.com/pulse/student-mentorship-effects-immediate-college-enrollment-preston-moore-gkrdc
